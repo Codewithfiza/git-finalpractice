@@ -1,0 +1,9 @@
+.heading{
+    color: red;
+}
+button{
+    background: black;
+    color: white;
+    border: none;
+    padding: 4px;
+}
